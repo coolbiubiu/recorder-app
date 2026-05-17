@@ -94,10 +94,10 @@ lib/
 │   └── extensions/          # 扩展方法
 ├── data/                    # 数据层
 │   ├── models/              # 数据模型
-│   ├── repositories/       # 数据仓库
-│   └── services/           # 服务层
-├── providers/              # 状态管理层
-└── ui/                     # UI层
+│   ├── repositories/        # 数据仓库
+│   └── services/            # 服务层
+├── providers/               # 状态管理层
+└── ui/                      # UI层
     ├── pages/              # 页面
     └── widgets/            # 组件
 ```
